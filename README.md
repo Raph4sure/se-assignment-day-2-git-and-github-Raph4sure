@@ -29,7 +29,7 @@ Structured Collaboration: Ensures contributions are reviewed and integrated prop
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
-##Key Steps to Set Up a New Repository on GitHub
+### Key Steps to Set Up a New Repository on GitHub
 Sign In to GitHub:
 Log in to your GitHub account.
 
