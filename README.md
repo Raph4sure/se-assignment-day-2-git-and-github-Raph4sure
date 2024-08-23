@@ -316,19 +316,15 @@ Strategy: Commit related changes together in small, logical units, and avoid com
 Example: Commit after completing a specific feature or fixing a particular bug.
 
 Use Branches for Development: Strategy: Always create a new branch for each feature or bug fix. This isolates changes and allows for easier testing and reviews.
-Example: Start new work with:
-git checkout -b new-feature
+Example: Start new work with: git checkout -b new-feature
 
 Embrace Pull Requests:
 Strategy: Use PRs for every change, no matter how small. This promotes code review and discussion.
 Example: Open a PR from your branch and request reviews from team members.
 
 Ensuring Smooth Collaboration
-Regular Communication:
-Keep your team updated on progress and potential issues using GitHub issues, PR comments, or other communication tools.
+Regular Communication: Keep your team updated on progress and potential issues using GitHub issues, PR comments, or other communication tools.
 
 Documentation:Maintain good documentation in the repository, especially in the README and CONTRIBUTING files, to guide team members.
 Automated Testing: Integrate CI tools to automatically run tests on every PR, ensuring that code changes don't introduce new issues.
-Continuous Learning:
-
-Encourage your team to learn and share best practices, keeping up with the latest Git and GitHub features.
+Continuous Learning: Encourage your team to learn and share best practices, keeping up with the latest Git and GitHub features.
